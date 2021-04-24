@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Reactionary
+Description=Reactionary Theme
+Author=Phob1an
+Copyright=
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=maldives.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=smithmark347@gmail.com
+Theme-Id=reactionary
+Theme-API=2.0
